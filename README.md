@@ -1,14 +1,9 @@
 ### <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 80px> </picture><p width="50px">HI 👋, I'M NICOLÁS DUARTE</p>
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px  class="about-me" ></picture> <p align="center">About me </p>
+<div align="center">
+<picture><img  src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 60px></picture> <h2 align="center"> About me</h2>
+</div>
 
-  <style>
-    .about-me {
-      display: block;
-      margin-left: auto;
-      margin-right: auto;
-    }
-  </style>
 
 ### <picture><img align="left" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 80px> </picture><p align="center"> I´m Front-End Developer with project experience personal and academic, specialized in React and technologies modern websites. Passionate about creating user experiences attractive and efficient. I look for opportunities to apply my skills in a professional</p>
 
