@@ -5,7 +5,7 @@
 </div>
 
 
-### <picture><img align="left" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 80px> </picture><p align="center"> I´m Front-End Developer with project experience personal and academic, specialized in React and technologies modern websites. Passionate about creating user experiences attractive and efficient. I look for opportunities to apply my skills in a professional</p>
+### <picture><img align="left" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 80px> </picture><p align="center"> I´m Front-End Developer with project experience personal and academic, specialized in React and technologies modern websites. Passionate about creating user experiences attractive and efficient. I look for opportunities to apply my skills in a professional environment.</p>
 
 <br/>
 
